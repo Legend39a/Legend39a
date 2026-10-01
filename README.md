@@ -12,11 +12,12 @@ Busco una práctica o contrato de aprendizaje como desarrollador o analista de a
 - **Automatización (RPA):** UiPath, REFramework
 - **Seguridad informática:** Kali Linux, Metasploit, auditoría de vulnerabilidades en protocolos de red
 - **Herramientas:** Git, GitHub, Visual Studio Code, Linux, Godot, Unreal Engine
-
+<!--
 ## Proyectos
 
 - **[Bot RPA para lectura de facturas](ENLACE)**: UiPath y REFramework. Extrae datos de facturas y genera reportes en Excel.
 - **[Aplicación de escritorio en Python](ENLACE)**: Tkinter y pygame, con seguimiento de progreso e historial.
+-->
 
 ## Formación
 
