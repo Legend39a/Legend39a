@@ -25,8 +25,8 @@ Busco una práctica o contrato de aprendizaje como desarrollador o analista de a
 
 ## Contacto
 
-- LinkedIn: [tu enlace]
-- Correo: estibenlopezgarcia79@gmail.com
+- LinkedIn: www.linkedin.com/in/estibengar05
+- Correo: estibenopt32@gmail.com
 
 <!--
 **Legend39a/Legend39a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
