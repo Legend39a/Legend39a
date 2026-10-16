@@ -12,12 +12,13 @@ Busco una práctica o contrato de aprendizaje como desarrollador o analista de a
 - **Automatización (RPA):** UiPath, REFramework
 - **Seguridad informática:** Kali Linux, Metasploit, auditoría de vulnerabilidades en protocolos de red
 - **Herramientas:** Git, GitHub, Visual Studio Code, Linux, Godot, Unreal Engine
-<!--
+
 ## Proyectos
 
-- **[Bot RPA para lectura de facturas](ENLACE)**: UiPath y REFramework. Extrae datos de facturas y genera reportes en Excel.
-- **[Aplicación de escritorio en Python](ENLACE)**: Tkinter y pygame, con seguimiento de progreso e historial.
--->
+- **[Aplicación de escritorio en Python](https://github.com/Legend39a/Descargador-de-Musica-MP3)**: Tkinter y pygame, con seguimiento de progreso e historial.
+- <!--
+  - **[Bot RPA para lectura de facturas](ENLACE)**: UiPath y REFramework. Extrae datos de facturas y genera reportes en Excel.
+  -->
 
 ## Formación
 
@@ -27,7 +28,7 @@ Busco una práctica o contrato de aprendizaje como desarrollador o analista de a
 ## Contacto
 
 - LinkedIn: www.linkedin.com/in/estibengar05
-- Correo: estibenopt32@gmail.com
+- Correo: estibenlopezgarcia79@gmail.com
 
 <!--
 **Legend39a/Legend39a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
