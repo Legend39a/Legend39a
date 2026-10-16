@@ -16,7 +16,7 @@ Busco una práctica o contrato de aprendizaje como desarrollador o analista de a
 ## Proyectos
 
 - **[Aplicación de escritorio en Python](https://github.com/Legend39a/Descargador-de-Musica-MP3)**: Tkinter y pygame, con seguimiento de progreso e historial.
-- <!--
+<!--
   - **[Bot RPA para lectura de facturas](ENLACE)**: UiPath y REFramework. Extrae datos de facturas y genera reportes en Excel.
   -->
 
